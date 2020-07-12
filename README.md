@@ -1,7 +1,20 @@
-### Hi there 👋
+### Olá, 👋
+
+Sou 🎓graduando em Sistemas de Informação e atuo como desenvolvedor de software com foco em aplicações single-page. ReactJS | React Native | NodeJS.
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/Jonas-6633cc?style=for-the-badge&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/jonas-castro-b4044111a/)](https://www.linkedin.com/in/jonas-castro-b4044111a/) 
+
+
+
 
 <!--
 **JonasCastro/JonasCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
