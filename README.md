@@ -5,7 +5,13 @@
 <hr>
 
 <p>- 🌱 Information Systems student at UFC 🎓</p >
-<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a> </p >
+<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a>   {
+ <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/> </a>,
+<a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> </a>, 
+<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>, 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> }
+</p >
+
 <p>- 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonascastro" height="20" width="20" /></a>  
 </p >
