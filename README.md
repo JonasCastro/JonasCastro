@@ -1,8 +1,8 @@
 ### Hi! 👋
 
 
-<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a></p >
 <p>- 🌱 Information Systems student at UFC🎓</p >
+<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a></p >
 <p>- 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonascastro" height="20" width="20" /></a>  
 </p >
