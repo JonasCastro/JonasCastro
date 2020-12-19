@@ -1,29 +1,16 @@
-### Olá, 👋
-
-Sou 🎓graduando em Sistemas de Informação e atuo como desenvolvedor de software com foco em aplicações single-page. ReactJS | React Native | NodeJS.
+### Hi! 👋
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/Jonas-6633cc?style=for-the-badge&logo=Linkedin&color=blue&logoColor=white&link=https://www.linkedin.com/in/jonas-castro-b4044111a/)](https://www.linkedin.com/in/jonas-castro-b4044111a/) 
-
-
-
-
-<!--
-**JonasCastro/JonasCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a></p >
+<p>- 🌱 Information Systems student at UFC🎓</p >
+<p>- 📫 How to reach me: 
+  <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonascastro" height="20" width="20" /></a>  
+</p >
 
 
 
+<br/>
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jonascastro&show_icons=true&count_private=true&include_all_commits=true&include_all_commits=true)](https://github.com/jonascastro)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascastro&layout=compact)](https://github.com/jonascastro)
