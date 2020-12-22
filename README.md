@@ -13,8 +13,10 @@
 </p >
 
 <p>- 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonascastro" height="20" width="20" /></a>  
-</p >
+ <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/">
+  <code><img alt="linkedin - Jonas" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
 
 <br>
 
