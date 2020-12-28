@@ -26,7 +26,8 @@
 <p align="left">  
  <a href="https://nodejs.org" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
- </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="30" height="30"/> </a> 
+ </a>
+
  <a href="https://www.postgresql.org" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
  </a> 
@@ -46,9 +47,9 @@
  <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
  </a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a>  <a href="https://www.gatsbyjs.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> 
- </a>
+ <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> 
+</a>  
+
  
  <a href="https://graphql.org" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/>
@@ -74,9 +75,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
  </a> 
 
- <a href="https://www.sqlite.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
- </a>
+
 
 </p>
 
@@ -97,6 +96,16 @@
  <a href="https://www.cprogramming.com/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
  </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
+ </a>
+  <a href="https://www.gatsbyjs.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="30" height="30"/> 
+ </a>
+  <a href="https://nuxtjs.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="30" height="30"/>
+ </a> 
+ 
 </p>
 
 <br>
