@@ -27,10 +27,6 @@
  <a href="https://nodejs.org" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
  </a>
-
- <a href="https://www.postgresql.org" target="_blank">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
- </a> 
  <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
  </a>
@@ -40,7 +36,9 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> <a href="https://vuejs.org/" target="_blank"> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
  </a>
- 
+  <a href="https://www.postgresql.org" target="_blank">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+ </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
  </a> 
@@ -79,7 +77,7 @@
 
 </p>
 
-### Others:
+#### Others:
 <p align="left">  
    <a href="https://www.java.com" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
