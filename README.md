@@ -10,7 +10,7 @@
 
 <p>- 📫 How to reach me: 
  <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/">
-  <code><img alt="linkedin - Jonas" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+ <img alt="linkedin - Jonas" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
