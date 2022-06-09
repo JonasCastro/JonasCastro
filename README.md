@@ -5,7 +5,6 @@
 <hr>
 
 <p>- 🌱 Information Systems student at UFC 🎓</p >
-<p>- 🔭 I’m currently working at <a href="https://www.cotabox.com.br/"><b>Cotabox</b></a>
 </p >
 
 <p>- 📫 How to reach me: 
