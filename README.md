@@ -4,7 +4,7 @@
 
 <hr>
 
-<p>- 🌱 Information Systems student at UFC 🎓</p >
+<p>- 🌱 Information Systems at UFC </p >
 </p >
 
 <p>- 📫 How to reach me: 
@@ -20,11 +20,11 @@
 
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonascastro&show_icons=true&locale=en&layout=compact" alt="jonascastro" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonascastro&show_icons=true&locale=en&layout=compact" alt="jonascastro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonascastro&show_icons=true&locale=en" alt="jonascastro" /></p>
 
-
+ -->
 
 
 
